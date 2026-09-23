@@ -97,4 +97,4 @@ pricing structure.
 
 ## Author
 
-[Your Name] — IBM SkillsBuild Data Analytics with AI Academic Internship Program
+Devesh Upadhyay — IBM SkillsBuild Data Analytics with AI Academic Internship Program
